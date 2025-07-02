@@ -1,0 +1,3 @@
+module "sagemaker" {
+  source = "./module"
+}
